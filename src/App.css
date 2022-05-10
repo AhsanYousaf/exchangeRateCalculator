@@ -1,4 +1,16 @@
+body{
+  background-color: gray;
+  color:#eef
+}
 
-table,th,td{
-  border: 1px solid black;
+h1{
+  margin-left: 400px;
+}
+
+table,
+th,
+td {
+  margin-left: 450px;
+  border: 1px solid #eef;
+  background-color: black;
 }

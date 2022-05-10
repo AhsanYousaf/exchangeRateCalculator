@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/exchangeRateCalculator/static/css/main.81a90f7a.css",
+    "main.js": "/exchangeRateCalculator/static/js/main.ceee864e.js",
+    "static/js/787.c9a905e7.chunk.js": "/exchangeRateCalculator/static/js/787.c9a905e7.chunk.js",
+    "index.html": "/exchangeRateCalculator/index.html",
+    "main.81a90f7a.css.map": "/exchangeRateCalculator/static/css/main.81a90f7a.css.map",
+    "main.ceee864e.js.map": "/exchangeRateCalculator/static/js/main.ceee864e.js.map",
+    "787.c9a905e7.chunk.js.map": "/exchangeRateCalculator/static/js/787.c9a905e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a90f7a.css",
+    "static/js/main.ceee864e.js"
+  ]
+}
